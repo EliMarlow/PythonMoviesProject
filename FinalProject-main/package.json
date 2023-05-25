@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dash": "^3.23.0-alpha.1",
+    "pandas": "^0.0.3"
+  }
+}
