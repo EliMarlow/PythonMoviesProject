@@ -1,1 +1,2 @@
 # PythonMoviesProject
+A group project I worked on my sophomore year in college, the goal of this project was to create an application that would allow users to sort for different kinds of movies, and see how different streaming services such as Netflix, Hulu, Disney+, etc compared in terms of what movies they offered that met that criteria, as well as show the user a list of all the movies that match that criteria.
